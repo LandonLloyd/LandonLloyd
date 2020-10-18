@@ -1,3 +1,6 @@
+# Landon Lloyd
+Welcome to my Github Profile Page. Thanks for visiting!
+
 ## About Me
 I am a programmer learning how to code for fun. I am going through the FreeCodeCamp Curriculum where I started from the very beginning. I have currently attained the Responsive Web Design and JavaScript Algorithms and Data Structures Certifications. I am currently working through the Front-End-Libraries section, where I am learning more about jQuery. I found a love for programming at the beginning of the COVID-19 lockdown when I wanted to do something useful with my time. I will continue to keep learning and having fun with code and hopefully one day finish the FreeCodeCamp Curriculum!
 
@@ -9,6 +12,10 @@ I am fairly new to Github and have been learning how to use it. I have made most
 
 ## Contact Me
 If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com?subject=Github)
+
+## Stats
+
+[![Landon's github stats](https://github-readme-stats.vercel.app/api?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats)
 
 <!--
 **LandonLloyd/LandonLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
