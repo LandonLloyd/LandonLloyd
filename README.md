@@ -11,9 +11,12 @@ I am currently working on completing the Front-End-Libraries section of FreeCode
 I am fairly new to Github and have been learning how to use it. I have made most of my contributions to a [Discord Bot named Becca-Bot](https://github.com/nhcarrigan/BeccaBot). I have also done a tiny bit of contributing to the FreeCodeCamp discord bot. I have also completed the HacktoberFest 2020 event which taught me a lot about contributing and how to use Github.
 
 ## Tech Stack
-|Technologies||     ||     ||     |
-|------------||-----||-----||-----| 
-|HTML5||CSS3||JavaScript||jQuery|
+| Technologies |
+|--------------|
+| HTML5 |
+| CSS3 |
+| JavaScript |
+| jQuery |
 
 ## Contact Me
 If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com?subject=Github)
