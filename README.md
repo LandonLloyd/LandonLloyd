@@ -8,7 +8,7 @@ I am currently working on completing the Front-End-Libraries section of FreeCode
 I am fairly new to Github and have been learning how to use it. I have made most of my contributions to a [Discord Bot named Becca-Bot](https://github.com/nhcarrigan/BeccaBot). I have also done a tiny bit of contributing to the FreeCodeCamp discord bot. I have also completed the HacktoberFest 2020 event which taught me a lot about contributing and how to use Github.
 
 ## Contact Me
-If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com?subject=[Github])
+If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com?subject=Github)
 
 <!--
 **LandonLloyd/LandonLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
