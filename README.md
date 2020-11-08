@@ -10,6 +10,11 @@ I am currently working on completing the Front-End-Libraries section of FreeCode
 ## Contributions
 I am fairly new to Github and have been learning how to use it. I have made most of my contributions to a [Discord Bot named Becca-Bot](https://github.com/nhcarrigan/BeccaBot). I have also done a tiny bit of contributing to the FreeCodeCamp discord bot. I have also completed the HacktoberFest 2020 event which taught me a lot about contributing and how to use Github.
 
+## 100 days of code
+https://img.shields.io/badge/100DaysOfCode-R1D100-purple
+https://img.shields.io/badge/100DaysOfCode-R2D1-purple
+
+
 ## Tech Stack
 | Technologies |
 |--------------|
@@ -19,7 +24,7 @@ I am fairly new to Github and have been learning how to use it. I have made most
 | jQuery |
 
 ## Contact Me
-If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com?subject=Github)
+If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com)
 
 ## Stats
 [![Landon's github stats](https://github-readme-stats.vercel.app/api?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats)
