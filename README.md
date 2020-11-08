@@ -11,8 +11,8 @@ I am currently working on completing the Front-End-Libraries section of FreeCode
 I am fairly new to Github and have been learning how to use it. I have made most of my contributions to a [Discord Bot named Becca-Bot](https://github.com/nhcarrigan/BeccaBot). I have also done a tiny bit of contributing to the FreeCodeCamp discord bot. I have also completed the HacktoberFest 2020 event which taught me a lot about contributing and how to use Github.
 
 ## 100 days of code
-https://img.shields.io/badge/100DaysOfCode-R1D100-purple
-https://img.shields.io/badge/100DaysOfCode-R2D1-purple
+![100 Days of Code Round 1](https://img.shields.io/badge/100%20Days%20of%20Code-Round%201%20Day%20100-purple)
+![100 Days of Code Round 2](https://img.shields.io/badge/100%20Days%20of%20Code-Round%202%20Day%201-purple)
 
 
 ## Tech Stack
