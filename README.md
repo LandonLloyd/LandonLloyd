@@ -5,10 +5,10 @@ Welcome to my Github Profile Page. Thanks for visiting! :smile:
 I am a programmer learning how to code for fun. I am going through the FreeCodeCamp Curriculum where I started from the very beginning. I have currently attained the Responsive Web Design and JavaScript Algorithms and Data Structures Certifications. I am currently working through the Front-End-Libraries section, where I am learning more about jQuery. I found a love for programming at the beginning of the COVID-19 lockdown when I wanted to do something useful with my time. I will continue to keep learning and having fun with code and hopefully one day finish the FreeCodeCamp Curriculum!
 
 ## Currently Working On
-I am currently working on completing the Front-End-Libraries section of FreeCodeCamp. Overall though I am working on completing the whole FreeCodeCamp Curriculum. 
+I am currently working on completing the Front-End-Libraries section of FreeCodeCamp. Overall though I am working on completing the whole FreeCodeCamp Curriculum. All of my projects can be viewed here on GitHub! 
 
 ## Contributions
-I am fairly new to Github and have been learning how to use it. I have made most of my contributions to a [Discord Bot named Becca-Bot](https://github.com/nhcarrigan/BeccaBot). I have also done a tiny bit of contributing to the FreeCodeCamp discord bot. I have also completed the HacktoberFest 2020 event which taught me a lot about contributing and how to use Github.
+I am fairly new to Github and have been learning how to use it. I have made most of my contributions to a [Discord Bot named Becca-Bot](https://github.com/nhcarrigan/BeccaBot). I have also done a tiny bit of contributing to the FreeCodeCamp discord bot. I have also completed the HacktoberFest 2020 event which taught me a lot about contributing and how to use GitHub. I am working on getting better at contributing and love open source!
 
 ## 100 days of code
 ![100 Days of Code Round 1](https://img.shields.io/badge/100%20Days%20of%20Code-Round%201%20Day%20100-purple)
