@@ -28,6 +28,7 @@ If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.
 
 ## Stats
 [![Landon's github stats](https://github-readme-stats.vercel.app/api?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats)
+[![Landon's github stats](https://github-readme-stats.vercel.app/api?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats)
 
 <!--
 **LandonLloyd/LandonLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
