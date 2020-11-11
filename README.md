@@ -12,7 +12,7 @@ I am fairly new to Github and have been learning how to use it. I have made most
 
 ## 100 days of code
 ![100 Days of Code Round 1](https://img.shields.io/badge/100%20Days%20of%20Code-Round%201%20Day%20100-purple)
-![100 Days of Code Round 2](https://img.shields.io/badge/100%20Days%20of%20Code-Round%202%20Day%203-purple)
+![100 Days of Code Round 2](https://img.shields.io/badge/100%20Days%20of%20Code-Round%202%20Day%204-purple)
 
 
 ## Tech Stack
