@@ -26,8 +26,9 @@ I am fairly new to Github and have been learning how to use it. I have made most
 If you would like to contact me shoot me an [email](mailto:landon.h.lloyd@gmail.com)
 
 ## Stats
+![Landon's github stats](https://github-readme-stats.vercel.app/api?username=LandonLloyd&theme=dark)
 [![Landon's github stats](https://github-readme-stats.vercel.app/api?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats)
-[![Landon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats)
+[![Landon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LandonLloyd)](https://github.com/LandonLloyd/github-readme-stats&theme=dark)
 
 <!--
 **LandonLloyd/LandonLloyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
